@@ -6,6 +6,7 @@ STEP = 10
 MIN_NAMBER = 5
 MAX_NAMBER = 10
 
+
 def brain_progression():
     name_user = cm.user_name()
     print('What number is missing in the progression?')
