@@ -20,28 +20,31 @@ This project was built using these tools:
 ```bash
 make install
 ```
-### Demonstration of Games
+### Description of Games
 
 "Brain Games" is a set of five console games based on popular mobile apps for brain training. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.
-Games:
-
-brain-calc. Arithmetic expressions that need to be calculated
-brain-progression. Finding missing numbers in a sequence of numbers
-brain-even. Determining an even number
-brain-gcd. Determining the greatest common divisor
-brain-prime. Determining a prime number
 
 ### brain-even
+Determining an even number
+
 https://asciinema.org/a/4ELjKrMUgYM4qlZtt8zo301KT
 
 ### brain-calc 
+Arithmetic expressions that need to be calculated
+
 https://asciinema.org/a/zMrZYhmqwEHAVRBwxTpj3HV47 
 
 ### brain-gcd
+Determining the greatest common divisor
+
 https://asciinema.org/a/VbeIwMIN4qAidrTx1VIw9otAe 
 
 ### brain-progression
+Finding missing numbers in a sequence of numbers
+
 https://asciinema.org/a/lVjV7P4MBH2jR0jYC3LfMRPE9 
 
 ### brain-prime
+Determining a prime number
+
 https://asciinema.org/a/qsSPXpvbWVGcBRMlxkx8PgZhK
